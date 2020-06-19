@@ -1,0 +1,7 @@
+{
+    "title": "Environmental Hazards in Arbor Hill",
+    "info": "This map plots air, water, soil, and transit hazards in the Arbor Hill community of Albany, New York. The hazard data was acquired from the New York Department of Environmental Conservation. The Coordinate Reference System is NAD 1983 StatePlane New York Central FIPS 3102 Feet (ESRI: 102716). It was created in QGIS 3.12.1 on Windows 10.", 
+    "coordinates": [42.66263, -73.75263],
+    "author": "Greg Campbell-Cohen", 
+    "link": "https://github.com/gregcampbellcohen/arbor-hill-hazard-map" 
+}
